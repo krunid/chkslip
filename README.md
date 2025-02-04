@@ -1,0 +1,2 @@
+# chkslip
+ตรวจสอบ slip
